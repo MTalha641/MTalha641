@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Talha
+- 👋 Hi, I’m Muhammad Talha currently pursuing BS CS from FAST NUCES 
 - 👀 I’m interested in Software Development and AI
 - 🌱 I’m currently learning the MERN stack and exploring AI
 - ..
