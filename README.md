@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning the MERN stack and exploring AI
 - ..
 - ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MTalha641&show_icons=true&theme=radical)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MTalha641&layout=compact&theme=radical)
+
 
 
 <!---
