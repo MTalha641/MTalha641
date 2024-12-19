@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and AI
 - 🌱 I’m currently learning the MERN stack and exploring AI
 - ..
-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MTalha641&show_icons=true&theme=radical)
 
 
 <!---
