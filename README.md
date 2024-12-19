@@ -4,6 +4,8 @@
 - ..
 - ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MTalha641&show_icons=true&theme=radical)
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MTalha641&layout=compact&theme=radical)
+- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=radical)
+
 
 
 
